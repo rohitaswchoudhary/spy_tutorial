@@ -15,3 +15,4 @@ print(np.array([1,2,3],dtype='f'))
 
 z.astype(float)
 print(z.dtype)
+print(rohit)
