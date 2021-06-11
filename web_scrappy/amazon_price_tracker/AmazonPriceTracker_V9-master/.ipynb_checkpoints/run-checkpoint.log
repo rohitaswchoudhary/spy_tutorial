@@ -1,4 +1,0 @@
-Traceback (most recent call last):
-  File "V9_Amazon_Price_Tracker.py", line 416, in <module>
-    get_ipython().system('jupyter nbconvert --to script V9_Amazon_Price_Tracker.ipynb')
-NameError: name 'get_ipython' is not defined

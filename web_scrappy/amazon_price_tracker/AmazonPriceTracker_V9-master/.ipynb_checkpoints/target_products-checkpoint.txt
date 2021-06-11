@@ -1,7 +1,0 @@
-Name,URL
-Kindle Reader,https://www.amazon.com/Kindle-Now-with-Built-in-Front-Light/dp/B07978J597
-Airpods,https://www.amazon.com/Apple-AirPods-Charging-Latest-Model/dp/B07PXGQC1Q
-Apple Watch Series 6,https://www.amazon.com/dp/B08J5MK16F/ref=fs_a_wt2_us1?th=1
-Bose SoundLink Micro,https://www.amazon.com/Bose-SoundLink-Micro-Bluetooth-speaker/dp/B0748N1BZD
-Bose SoundLink Color,https://www.amazon.com/Bose-SoundLink-Color-Bluetooth-speaker/dp/B01HETFPTU
-Bose HomeSpeaker 500,https://www.amazon.com/Bose-Speaker-Alexa-control-built/dp/B07FDF9B46/ref=sr_1_2?crid=3NGCQADMHK2DY&dchild=1&keywords=bose+home+speaker+500&qid=1607738589&sprefix=bose+home+spea%2Caps%2C176&sr=8-2
